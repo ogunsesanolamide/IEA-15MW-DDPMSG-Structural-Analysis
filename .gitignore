@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# MATLAB cache / autosave
+*.slxc
+*.asv
+slprj/
+*.autosave
+
+# Large binary outputs (regenerable)
+lptn_results.mat
+matlab.mat
+
+# Simulink compile artifacts
+codegen/
+
+# Claude session data
+.claude/
+CLAUDE.md
+
+# Rejected / superseded figures
+figure2_final.png
+Figure3_2_3_PolarStress.tiff
+
+# Thesis chapter editing scripts (not part of this repo's scope)
+edit_chapter3b.py
+edit_chapter3b_table6.py
+Chapter3_Methodology.md

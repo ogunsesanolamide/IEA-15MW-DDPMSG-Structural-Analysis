@@ -1,0 +1,8 @@
+Ring,Inner_R_mm,Outer_R_mm,Thickness_mm,Material
+Rotor Back-Iron,4867.6,4967.6,100.0,Si-steel
+PM Layer,4967.6,4992.6,25.0,NdFeB
+Stator Teeth,5000.0,5100.0,100.0,Si-steel
+Stator Yoke,5100.0,5235.0,135.0,Si-steel
+Housing/Frame,5235.0,5275.0,40.0,Structural steel
+Air-Gap,4992.6,5000.0,7.4,Air (no feature)
+Axial_Depth,,,1700,
