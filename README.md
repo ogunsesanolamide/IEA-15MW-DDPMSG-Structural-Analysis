@@ -2,7 +2,7 @@
 
 MATLAB implementation of the structural optimisation of the rotor ring for the IEA/NREL 15 MW offshore direct-drive permanent magnet synchronous generator (DD-PMSG). Covers the electromagnetic, inertial and thermal load cases, an analytical wall-thickness sweep, finite element verification, and fatigue life under measured wind loading.
 
-Developed as part of a Master of Research thesis at Edinburgh Napier University / LMD UK, supervised by Dr Pablo Jaen-Sola.
+Developed as part of a Master of Research thesis at Edinburgh Napier University, supervised by Dr Pablo Jaen-Sola.
 
 Companion repository: [IEA-15MW-DDPMSG-Thermal-Analysis](https://github.com/ogunsesanolamide/IEA-15MW-DDPMSG-Thermal-Analysis), which provides the nodal temperatures this work takes as input.
 
