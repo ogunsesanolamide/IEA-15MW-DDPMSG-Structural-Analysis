@@ -61,7 +61,7 @@ The later ANSYS topology optimisation work uses AISI 304 instead, on the supervi
 
 Gaertner, E. et al. (2020) *Definition of the IEA 15-Megawatt Offshore Reference Wind Turbine*. NREL/TP-5000-75698.
 
-Bichan, M. et al. (2024) air-gap closure criterion for large direct-drive generators.
+Bichan, M., Jaen-Sola, P., Gonzalez-Delgado, D. and Oterkus, E. (2024) 'On the integrity of large-scale direct-drive wind turbine electrical generator structures: an integrated design methodology for optimisation, considering thermal loads and novel techniques', *Machines*, 12(4), 277. doi: 10.3390/machines12040277.
 
 McDonald, A.S., Mueller, M.A. and Polinder, H. (2008) 'Structural mass in direct-drive permanent magnet electrical generators', *IET Renewable Power Generation*, 2(1), pp. 3 to 15.
 
